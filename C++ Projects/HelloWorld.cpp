@@ -1,11 +1,7 @@
+#include <iostream>
 
-/*
-# include <iostream>
+int main() {
 
-int main () {
-
-    std::cout << "Hello I like pizza!" << '\n';
-    std::cout << "It's really good!" << '\n';
+    std:: cout << "Hello there, I'm learning C++ for beginners!!!" << std::endl;
     return 0;
 }
-*/
